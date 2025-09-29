@@ -1,4 +1,4 @@
-## Currently working and looking to collaborate on
+## Current work focus
 
 ### GenAI API Standardization
 <!--
